@@ -1,0 +1,3 @@
+/workspaces/Identity_service_AWS_EC2/src/test/java/com/devteria/identityservice/IdentityServiceApplicationTests.java
+/workspaces/Identity_service_AWS_EC2/src/test/java/com/devteria/identityservice/service/UserServiceTest.java
+/workspaces/Identity_service_AWS_EC2/src/test/java/com/devteria/identityservice/controller/UserControllerTest.java
